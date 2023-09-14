@@ -1,4 +1,4 @@
-# Simple Posts Website
+# Blog Website
 
 ## Main Idea
 
